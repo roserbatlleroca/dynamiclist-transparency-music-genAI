@@ -112,10 +112,10 @@
     },
     {
         "Category": "AI Transparency",
-        "Subcategory": "Explainability ",
+        "Subcategory": "Explainability",
         "Authors": "Mishra et al. (2017)",
         "Title": {
-            "text": "LOCAL INTERPRETABLE MODEL-AGNOSTIC EXPLANATIONS FOR",
+            "text": "Local Interpretable Model-Agnostic Explations for",
             "link": ""
         },
         "Date": 2017
@@ -243,7 +243,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "Miller and T. (2019)",
+        "Authors": "Miller (2019)",
         "Title": {
             "text": "Explanation in artificial intelligence: Insights from the social sciences",
             "link": ""
@@ -483,7 +483,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "C. Henin (2021)",
+        "Authors": "Henin (2021)",
         "Title": {
             "text": "Nan",
             "link": ""
