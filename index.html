@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Summary: Transparency in Music-Generative AI Literature Review</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap">
+
+    <style>
+        /* Apply the Open Sans font */
+        body { 
+            font-family: 'Open Sans', sans-serif; 
+            margin-left: 20px; /* Adds margin to the left side of the screen */
+        }
+        
+        table { 
+            width: calc(100% - 20px); /* Adjust table width to fit within the margin */
+            border-collapse: collapse; 
+            margin-top: 20px; 
+        }
+        
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 8px; 
+            text-align: left; 
+        }
+        
+        th { 
+            background-color: #f2f2f2; 
+            font-weight: 600; 
+        }
+        
+        .category-row { 
+            font-weight: bold; 
+            background-color: #e0e0e0; 
+        }
+        
+        .subcategory-row { 
+            font-style: italic; 
+            background-color: #f7f7f7; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Live Literature Review Summary</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Subcategory</th>
+                <th>Reference</th>
+                <th>Title</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody id="table-content">
+            <!-- Content will be populated here by JavaScript -->
+        </tbody>
+    </table>
+
+    <script>
+        async function loadPublications() {
+            try {
+                // Fetch the JSON data
+                const response = await fetch('publications.json');
+                const publications = await response.json();
+
+                const tableContent = document.getElementById('table-content');
+
+                publications.forEach(cat => {
+                    const categoryRow = document.createElement('tr');
+                    categoryRow.classList.add('category-row');
+                    categoryRow.innerHTML = `<td colspan="5">${cat.category}</td>`;
+                    tableContent.appendChild(categoryRow);
+
+                    cat.subcategories.forEach(subcat => {
+                        const subcategoryRow = document.createElement('tr');
+                        subcategoryRow.classList.add('subcategory-row');
+                        subcategoryRow.innerHTML = `<td></td><td colspan="4">${subcat.name}</td>`;
+                        tableContent.appendChild(subcategoryRow);
+
+                        subcat.publications.forEach(pub => {
+                            const row = document.createElement('tr');
+                            row.innerHTML = `
+                                <td></td> <!-- Empty cell for category -->
+                                <td></td> <!-- Empty cell for subcategory -->
+                                <td>${pub.reference}</td>
+                                <td><a href="${pub.link}" target="_blank">${pub.title}</a></td>
+                                <td>${pub.date}</td>
+                            `;
+                            tableContent.appendChild(row);
+                        });
+                    });
+                });
+            } catch (error) {
+                console.error('Error loading publications:', error);
+            }
+        }
+
+        // Call the function to load publications
+        loadPublications();
+    </script>
+</body>
+</html>
