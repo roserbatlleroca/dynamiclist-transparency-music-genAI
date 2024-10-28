@@ -8,7 +8,7 @@
             "text": "s. 178 copyright, designs and patents act",
             "link": "https://assets.publishing.service.gov.uk/media/60180c2b8fa8f53fc62c5897/Copyright-designs-and-patents-act-1988.pdf"
         },
-        "Date": "November 1988"
+        "Date": 1988
     },
     {
         "Category": "Music Generation",
@@ -18,12 +18,12 @@
             "text": "The Turing Test and artistic creativity",
             "link": "https://www.emerald.com/insight/content/doi/10.1108/03684921011036132/full/html?utm_campaign=Emerald_Engineering_PPV_Dec22_RoN"
         },
-        "Date": "May 2010"
+        "Date": 2010
     },
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "Margaret Boden (2004)",
+        "Authors": "Boden (2004)",
         "Title": {
             "text": "The creative mind: myths and mechanisms",
             "link": ""
@@ -43,7 +43,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "A. Jorndanous (2010)",
+        "Authors": "Jorndanous (2010)",
         "Title": {
             "text": "Defining Creativity: Finding Keywords for",
             "link": "https://www.researchgate.net/profile/Anna-Jordanous/publication/255649297_Creativity_Finding_Keywords_for_Creativity_Using_Corpus_Linguistics_Techniques/links/53fddac90cf22f21c2f85517/Creativity-Finding-Keywords-for-Creativity-Using-Corpus-Linguistics-Techniques.pdf"
@@ -53,7 +53,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity Evaluation",
-        "Authors": "A. Jorndanous (2011)",
+        "Authors": "Jorndanous (2011)",
         "Title": {
             "text": "Evaluating evaluation: Assessing progress in computationa",
             "link": "https://kar.kent.ac.uk/42374/1/jordanous-2011a.pdf"
@@ -63,7 +63,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity Evaluation",
-        "Authors": "A. Jorndanous (2012)",
+        "Authors": "Jorndanous (2012)",
         "Title": {
             "text": "A Standardised Procedure for Evaluating Creative Systems: Computational Creativity Evaluation Based on What it is to be Creative",
             "link": "https://link.springer.com/content/pdf/10.1007/s12559-012-9156-1.pdf"
@@ -113,7 +113,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability ",
-        "Authors": "Saumitra Mishra et al. (2017)",
+        "Authors": "Mishra et al. (2017)",
         "Title": {
             "text": "LOCAL INTERPRETABLE MODEL-AGNOSTIC EXPLANATIONS FOR",
             "link": ""
@@ -263,7 +263,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "*",
-        "Authors": "Cynthia Rudin (2019)",
+        "Authors": "Rudin (2019)",
         "Title": {
             "text": "Stop Explaining Black Box Models for High Stakes Decisions and Use Interpretable Models Instead",
             "link": ""
@@ -393,7 +393,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Interpretability",
-        "Authors": "Sokol K,Flach P (2020)",
+        "Authors": "Sokol and Flach (2020)",
         "Title": {
             "text": "Interpretable Representations in Explainable AI: From Theory to Practice",
             "link": ""
@@ -443,7 +443,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity Evaluation",
-        "Authors": "Chung and N. (2021)",
+        "Authors": "Chung (2021)",
         "Title": {
             "text": "Human in the Loop for Machine Creativity",
             "link": ""
@@ -573,7 +573,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "A. Arias-Duart (2022)",
+        "Authors": "Arias-Duart (2022)",
         "Title": {
             "text": "Nan",
             "link": ""
@@ -593,7 +593,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Interpretability",
-        "Authors": "Christopher Molnar (2022)",
+        "Authors": "Molnar (2022)",
         "Title": {
             "text": "Interpretable Machine Learning",
             "link": ""
@@ -793,7 +793,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "A. K. Brandt (2023)",
+        "Authors": "Brandt (2023)",
         "Title": {
             "text": "Beethoven's Ninth and AI's Tenth: A comparison of human and computational creativity",
             "link": "https://www.sciencedirect.com/science/article/pii/S2713374523000274?pes=vor"
@@ -893,7 +893,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "ASHLEY NOEL-HIRST and NICK BRYAN-KINNS et al. (2023)",
+        "Authors": "Noel-Hirst and Bryan-Kinns (2023)",
         "Title": {
             "text": "An Autoethnographic Exploration of XAI in Algorithmic Composition",
             "link": "https://arxiv.org/pdf/2308.06089.pdf"
@@ -943,7 +943,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Interpretability",
-        "Authors": "P. Alonso-Jimenez et a.  (2024)",
+        "Authors": "Alonso-Jiménez et al. (2024)",
         "Title": {
             "text": "Leveraging Pre-Trained Autoencoders for Interpretable Prototype Learning of Music Audio",
             "link": "https://arxiv.org/abs/2402.09318"
@@ -963,7 +963,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Originality and Plagiarism in Generation Models",
-        "Authors": "J. Barnett et al.  (2024)",
+        "Authors": "Barnett et al.  (2024)",
         "Title": {
             "text": "Exploring Musical Roots: Applying Audio Embeddings to Empower Influence",
             "link": "https://arxiv.org/pdf/2401.14542"
@@ -973,7 +973,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Co-Creativity",
-        "Authors": "A. Correia et al. (2024)",
+        "Authors": "Correia et al. (2024)",
         "Title": {
             "text": "And Justice for Art(ists): Metaphorical Design as a Method for Creating Culturally Diverse Human-AI Music Composition Experiences",
             "link": "https://ieeexplore.ieee.org/document/10550680"
@@ -983,7 +983,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "C. Ford et al.  (2024)",
+        "Authors": "Ford et al.  (2024)",
         "Title": {
             "text": "Reflection Across AI-based Music Composition",
             "link": "https://ualresearchonline.arts.ac.uk/id/eprint/22060/1/reflection_across_unmarked.pdf"

@@ -50,7 +50,7 @@
                 <th>Subcategory</th>
                 <th>Authors</th>
                 <th>Title</th>
-                <th>Date</th>
+                <!--<th>Date</th>-->
             </tr>
         </thead>
         <tbody id="table-content">
@@ -119,7 +119,6 @@
                                     <td></td> <!-- Empty cell for subcategory -->
                                     <td>${pub.Authors}</td>
                                     <td><a href="${pub.Title.link}" target="_blank">${pub.Title.text}</a></td>
-                                    <td>${pub.Date}</td>
                                 `;
                                 tableContent.appendChild(row);
                             });
