@@ -1,23 +1,24 @@
 [
+
     {
         "Category": "IP and Copyright",
         "Subcategory": "Law Specific",
-        "Authors": "",
+        "Authors": "United Kingdom Intellectual Property Office",
         "Title": {
             "text": "s. 178 copyright, designs and patents act",
-            "link": ""
+            "link": "https://assets.publishing.service.gov.uk/media/60180c2b8fa8f53fc62c5897/Copyright-designs-and-patents-act-1988.pdf"
         },
-        "Date": 1988
+        "Date": "November 1988"
     },
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "Boden and M.A. (2010)",
+        "Authors": "Boden (2010)",
         "Title": {
             "text": "The Turing Test and artistic creativity",
             "link": "https://www.emerald.com/insight/content/doi/10.1108/03684921011036132/full/html?utm_campaign=Emerald_Engineering_PPV_Dec22_RoN"
         },
-        "Date": 2010
+        "Date": "May 2010"
     },
     {
         "Category": "Music Generation",
@@ -172,7 +173,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Documentation",
-        "Authors": "Sarah Holland and Ahmed Hosny and Sarah Newman and Joshua Joseph and Kasia Chmielinski (2018)",
+        "Authors": "Holland et al. (2018)",
         "Title": {
             "text": "The Dataset Nutrition Label: A Framework To Drive Higher Data Quality Standards",
             "link": ""
@@ -334,7 +335,7 @@
         "Subcategory": null,
         "Authors": "",
         "Title": {
-            "text": ". Deep learning for music generation: challenges and directions",
+            "text": "Deep learning for music generation: challenges and directions",
             "link": ""
         },
         "Date": 2020
@@ -672,7 +673,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "Caramiaux B,Fdili Alaoui S (2022)",
+        "Authors": "Caramiaux and Alaoui (2022)",
         "Title": {
             "text": "Explorers of Unknown Planets: Practices and Politics of Artificial Intelligence in Visual Arts",
             "link": ""
@@ -762,7 +763,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "Nick Bryan-Kinns1,2 et al. (2023)",
+        "Authors": "Bryan-Kinns et al. (2023a)",
         "Title": {
             "text": "Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI",
             "link": "https://arxiv.org/pdf/2311.08336.pdf"
@@ -772,7 +773,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "Bryan-Kinns et al.  (2023)",
+        "Authors": "Bryan-Kinns et al.  (2023b)",
         "Title": {
             "text": "Exploring XAI for the Arts: Explaining Latent Space in Generative Music",
             "link": "https://arxiv.org/abs/2308.05496"
@@ -932,7 +933,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity Evaluation",
-        "Authors": "https://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Zongyu-Yin-Aff1,\ufffdhttps://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Federico-Reuben-Aff2,\ufffdhttps://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Susan-Stepney-Aff1\ufffd&\ufffdhttps://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Tom-Collins-Aff2-Aff3 (2023)",
+        "Authors": "Yin et al. (2023)",
         "Title": {
             "text": "Deep learning\ufffds shallow gains: a comparative evaluation of algorithms for automatic music generation",
             "link": "https://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot"
