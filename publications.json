@@ -1,23 +1,54 @@
 [
-    [
-        {
-            "category": "AI Transparency", 
-            "subcategories": [
-                {
-                    "name": "", 
-                    "publications": [
-                        { "reference": "Addadi and Berrada", "title": "Explainable AI for Music", "link": "https://example.com", "date": "2023" },
-                        { "reference": "Afchar et al.", "title": "Interpretability in AI", "link": "https://example.com", "date": "2022" }
-                    ]
-                },
-                {
-                    "name": "Explainability", 
-                    "publications": [
-                        { "reference": "Addadi and Berrada", "title": "Explainable AI for Music", "link": "https://example.com", "date": "2023" },
-                        { "reference": "Afchar et al.", "title": "Interpretability in AI", "link": "https://example.com", "date": "2022" }
-                    ]
-                }
-            ]
-        }
-    ]
+    {
+        "category": "AI Transparency",
+        "subcategories": [
+            {
+                "name": "Explainability",
+                "publications": [
+                    { "reference": "Addadi and Berrada", "title": "Explainable AI for Music", "link": "https://example.com", "date": "2023" },
+                    { "reference": "Afchar et al.", "title": "Interpretability in AI", "link": "https://example.com", "date": "2022" }
+                ]
+            },
+            {
+                "name": "Interpretability",
+                "publications": [
+                    { "reference": "Böhle and Fritz", "title": "Understanding Model Outputs", "link": "", "date": "2021" }
+                ]
+            },
+            {
+                "name": "Documentation",
+                "publications": [
+                    { "reference": "Arnold et al.", "title": "Documenting AI Models", "link": "https://example.com", "date": "2020" }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Generative AI Implications",
+        "subcategories": [
+            {
+                "name": "General",
+                "publications": [
+                    { "reference": "Bandini et al.", "title": "Ethics of Generative AI", "link": "", "date": "2019" }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "AI-Generated Music",
+        "subcategories": [
+            {
+                "name": "Creativity & Computational Creativity",
+                "publications": [
+                    { "reference": "Arrigada et al.", "title": "Creativity in AI", "link": "https://example.com", "date": "2022" }
+                ]
+            },
+            {
+                "name": "Creativity Evaluation",
+                "publications": [
+                    { "reference": "Agres et al.", "title": "Evaluating Creativity in AI Music", "link": "", "date": "2021" }
+                ]
+            }
+        ]
+    }
 ]
