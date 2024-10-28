@@ -1,1 +1,2 @@
-# livelist-transparency-music-genAI
+# Live List: Transparency in Music-Generative AI 
+
