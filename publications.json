@@ -1,54 +1,1072 @@
 [
     {
-        "category": "AI Transparency",
-        "subcategories": [
-            {
-                "name": "Explainability",
-                "publications": [
-                    { "reference": "Addadi and Berrada", "title": "Explainable AI for Music", "link": "https://example.com", "date": "2023" },
-                    { "reference": "Afchar et al.", "title": "Interpretability in AI", "link": "https://example.com", "date": "2022" }
-                ]
-            },
-            {
-                "name": "Interpretability",
-                "publications": [
-                    { "reference": "Böhle and Fritz", "title": "Understanding Model Outputs", "link": "", "date": "2021" }
-                ]
-            },
-            {
-                "name": "Documentation",
-                "publications": [
-                    { "reference": "Arnold et al.", "title": "Documenting AI Models", "link": "https://example.com", "date": "2020" }
-                ]
-            }
-        ]
+        "Category": "IP and Copyright",
+        "Subcategory": "Law Specific",
+        "Authors": "",
+        "Title": {
+            "text": "s. 178 copyright, designs and patents act",
+            "link": ""
+        },
+        "Date": 1988
     },
     {
-        "category": "Generative AI Implications",
-        "subcategories": [
-            {
-                "name": "General",
-                "publications": [
-                    { "reference": "Bandini et al.", "title": "Ethics of Generative AI", "link": "", "date": "2019" }
-                ]
-            }
-        ]
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Boden and M.A. (2010)",
+        "Title": {
+            "text": "The Turing Test and artistic creativity",
+            "link": "https://www.emerald.com/insight/content/doi/10.1108/03684921011036132/full/html?utm_campaign=Emerald_Engineering_PPV_Dec22_RoN"
+        },
+        "Date": 2010
     },
     {
-        "category": "AI-Generated Music",
-        "subcategories": [
-            {
-                "name": "Creativity & Computational Creativity",
-                "publications": [
-                    { "reference": "Arrigada et al.", "title": "Creativity in AI", "link": "https://example.com", "date": "2022" }
-                ]
-            },
-            {
-                "name": "Creativity Evaluation",
-                "publications": [
-                    { "reference": "Agres et al.", "title": "Evaluating Creativity in AI Music", "link": "", "date": "2021" }
-                ]
-            }
-        ]
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Margaret Boden (2004)",
+        "Title": {
+            "text": "The creative mind: myths and mechanisms",
+            "link": ""
+        },
+        "Date": 2004
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Boden et al. (2009)",
+        "Title": {
+            "text": "What is generative art?",
+            "link": "https://creativecoding.soe.ucsc.edu/courses/cmpm202_w20/texts/Boden_Edmonds_WhatIsGenerativeArt.pdf"
+        },
+        "Date": 2009
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "A. Jorndanous (2010)",
+        "Title": {
+            "text": "Defining Creativity: Finding Keywords for",
+            "link": "https://www.researchgate.net/profile/Anna-Jordanous/publication/255649297_Creativity_Finding_Keywords_for_Creativity_Using_Corpus_Linguistics_Techniques/links/53fddac90cf22f21c2f85517/Creativity-Finding-Keywords-for-Creativity-Using-Corpus-Linguistics-Techniques.pdf"
+        },
+        "Date": 2010
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "A. Jorndanous (2011)",
+        "Title": {
+            "text": "Evaluating evaluation: Assessing progress in computationa",
+            "link": "https://kar.kent.ac.uk/42374/1/jordanous-2011a.pdf"
+        },
+        "Date": 2011
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "A. Jorndanous (2012)",
+        "Title": {
+            "text": "A Standardised Procedure for Evaluating Creative Systems: Computational Creativity Evaluation Based on What it is to be Creative",
+            "link": "https://link.springer.com/content/pdf/10.1007/s12559-012-9156-1.pdf"
+        },
+        "Date": 2012
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Agres et al. (2016)",
+        "Title": {
+            "text": "Evaluation of musical creativity and musical metacreation systems",
+            "link": "https://dl.acm.org/doi/10.1145/2967506"
+        },
+        "Date": 2016
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Pasquier et al. (2016)",
+        "Title": {
+            "text": "An introduction to musical metacreation",
+            "link": ""
+        },
+        "Date": 2016
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Ribeiro et al. (2016)",
+        "Title": {
+            "text": "\"Why should i trust you?\" Explaining the predictions of any classifier",
+            "link": ""
+        },
+        "Date": 2016
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Colombo et al. (2017)",
+        "Title": {
+            "text": "Deep artificial composer: A creative neural network model for automated melody generation",
+            "link": ""
+        },
+        "Date": 2017
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability ",
+        "Authors": "Saumitra Mishra et al. (2017)",
+        "Title": {
+            "text": "LOCAL INTERPRETABLE MODEL-AGNOSTIC EXPLANATIONS FOR",
+            "link": ""
+        },
+        "Date": 2017
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": "Law Specific",
+        "Authors": "",
+        "Title": {
+            "text": "Compendium of US copyright offices practices",
+            "link": ""
+        },
+        "Date": 2017
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": null,
+        "Authors": "Abdollahi et al. (2018)",
+        "Title": {
+            "text": "Transparency in Fair Machine Learning: the Case of Explainable Recommender Systems",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-90403-0_2"
+        },
+        "Date": 2018
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Adadi et al. (2018)",
+        "Title": {
+            "text": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
+            "link": ""
+        },
+        "Date": 2018
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Birtchnell et al. (2018)",
+        "Title": {
+            "text": "Automating the black art: Creative places for artificial intelligence in audio mastering",
+            "link": ""
+        },
+        "Date": 2018
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "L. Casini (2018)",
+        "Title": {
+            "text": NaN,
+            "link": ""
+        },
+        "Date": 2018
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Documentation",
+        "Authors": "Sarah Holland and Ahmed Hosny and Sarah Newman and Joshua Joseph and Kasia Chmielinski (2018)",
+        "Title": {
+            "text": "The Dataset Nutrition Label: A Framework To Drive Higher Data Quality Standards",
+            "link": ""
+        },
+        "Date": 2018
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Lamb et al. (2018)",
+        "Title": {
+            "text": "Evaluating computational creativity: An interdisciplinary tutorial",
+            "link": ""
+        },
+        "Date": 2018
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "",
+        "Title": {
+            "text": "Is Computational Creativity Domain General?",
+            "link": ""
+        },
+        "Date": 2018
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Documentation",
+        "Authors": "Arnold et al. (2019)",
+        "Title": {
+            "text": "FactSheets: Increasing trust in AI services through supplier's declarations of conformity}",
+            "link": "https://arxiv.org/pdf/1808.07261.pdf"
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Clinciu et al. (2019)",
+        "Title": {
+            "text": "A survey of explainable AI terminology",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Daniele et al. (2019)",
+        "Title": {
+            "text": "AI + Art = Human",
+            "link": "https://www.aies-conference.com/2019/wp-content/papers/main/AIES-19_paper_80.pdf"
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Ehsan et al. (2019)",
+        "Title": {
+            "text": "Automated rationale generation: A technique for explainable AI and its effects on human perceptions",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Miller and T. (2019)",
+        "Title": {
+            "text": "Explanation in artificial intelligence: Insights from the social sciences",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Documentation",
+        "Authors": "Mitchell et al. (2019)",
+        "Title": {
+            "text": "Model Cards for Model Reporting",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": null,
+        "Authors": "Cynthia Rudin (2019)",
+        "Title": {
+            "text": "Stop Explaining Black Box Models for High Stakes Decisions and Use Interpretable Models Instead",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": null,
+        "Authors": "Sim\u00f5es JM,Machado P,Rodrigues AC (2019)",
+        "Title": {
+            "text": "Deep Learning for Expressive Music Generation",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "Bob Strum et al. (2019)",
+        "Title": {
+            "text": "Artificial Intelligence and Music: Open Questions of Copyright Law and Engineering Praxis",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Wang et al. (2019)",
+        "Title": {
+            "text": "Designing theory-driven user-centric explainable AI",
+            "link": ""
+        },
+        "Date": 2019
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Arriagada and L. (2020)",
+        "Title": {
+            "text": "CG-Art: demystifying the anthropocentric bias of artistic creativity",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Barredo Arrieta et al. (2020)",
+        "Title": {
+            "text": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "",
+        "Title": {
+            "text": "AI as Producer and Consumer of Copyright Works: Evaluating the Consequences of Algorithmic Creativity ",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": null,
+        "Authors": "",
+        "Title": {
+            "text": ". Deep learning for music generation: challenges and directions",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Carnovalini et al. (2020)",
+        "Title": {
+            "text": "Computational Creativity and Music Generation Systems: An Introduction to the State of the Art",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Esling P,Devis N (2020)",
+        "Title": {
+            "text": "Creativity in the era of artificial intelligence",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Louie et al. (2020)",
+        "Title": {
+            "text": "Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models",
+            "link": "https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376739"
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Moruzzi and C. (2020)",
+        "Title": {
+            "text": "Measuring Creativity: an account of natural and artificial creativity ",
+            "link": "AI-generated music: Creativity and autonomy"
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": null,
+        "Authors": "Ragot et al. (2020)",
+        "Title": {
+            "text": "AI-generated vs. human artworks. a perception bias towards artificial intelligence?",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "Sokol K,Flach P (2020)",
+        "Title": {
+            "text": "Interpretable Representations in Explainable AI: From Theory to Practice",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Originality and Plagiarism in Generation Models",
+        "Authors": "Yang et al. (2020)",
+        "Title": {
+            "text": "On the evaluation of generative models in music",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Generative AI Implications",
+        "Subcategory": null,
+        "Authors": "F. Morreale et al.  (2021)",
+        "Title": {
+            "text": "Where Does the Buck Stop? Ethical and Political Issues",
+            "link": "https://researchspace.auckland.ac.nz/bitstream/handle/2292/55479/86-2717-1-PB.pdf?sequence=2"
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "Generative AI Implications",
+        "Subcategory": null,
+        "Authors": "M. Clancy (2021)",
+        "Title": {
+            "text": "Reflections on the Financial and Ethical Implications of Music Generated by Artificial Intelligence",
+            "link": "https://www.tara.tcd.ie/handle/2262/94880"
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "C\u00e1diz et al. (2021)",
+        "Title": {
+            "text": "Creativity in Generative Musical Networks: Evidence From Two Case Studies",
+            "link": "https://www.frontiersin.org/articles/10.3389/frobt.2021.680586/full"
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Chung and N. (2021)",
+        "Title": {
+            "text": "Human in the Loop for Machine Creativity",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Clinciu et al. (2021)",
+        "Title": {
+            "text": "I don't understand! Evaluation methods for natural language explanations",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Documentation",
+        "Authors": "TIMNIT GEBRU et al. (2021)",
+        "Title": {
+            "text": "Datasheets for Datasets",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "J. Hayes (2021)",
+        "Title": {
+            "text": "Setting AI to rights: Intellectual property laws are lagging behind the latest advances in ai tech - but should intelligent systems 'own' the inventions they come up with?",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "C. Henin (2021)",
+        "Title": {
+            "text": NaN,
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "Linardatos et al. (2021)",
+        "Title": {
+            "text": "Explainable ai: A review of machine learning interpretability methods",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Mejtoft et al. (2021)",
+        "Title": {
+            "text": "Creative Capabilities of Machine Learning: Evaluating music created by algorithms",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3452853.3452863?casa_token=CDgnGJRyV6gAAAAA:zOy3NE6e5mjkGMu4OEaCzdLIwbAfCZ0LaUGG6KgBLz175288kkaimNwBAaRXd43YOirTi79hnYVm_Ww"
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Pintelas et al. (2021)",
+        "Title": {
+            "text": "A novel explainable image classification framework: case study on skin cancer and plant disease prediction",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Samek et al. (2021)",
+        "Title": {
+            "text": "Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "Schr\u00f6der et al. (2021)",
+        "Title": {
+            "text": "Unboxing the algorithm: Designing an understandable algorithmic experience in music recommender systems",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Originality and Plagiarism in Generation Models",
+        "Authors": "Yin et al. (2021)",
+        "Title": {
+            "text": "\u201cA Good Algorithm Does Not Steal \u2013 It Imitates\u201d: The Originality Report as a Means of Measuring When a Music Generation Algorithm Copies Too Much",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-72914-1_24"
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "Zinemanas and P. (2021)",
+        "Title": {
+            "text": NaN,
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Afchar et al. (2022)",
+        "Title": {
+            "text": "Explainability in music recommender systems",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "A. Arias-Duart (2022)",
+        "Title": {
+            "text": NaN,
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "M. B\u00f6hle (2022)",
+        "Title": {
+            "text": NaN,
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "Christopher Molnar (2022)",
+        "Title": {
+            "text": "Interpretable Machine Learning",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Cetinic et al. (2022)",
+        "Title": {
+            "text": "Understanding and Creating Art with AI: Review and Outlook",
+            "link": "https://dl.acm.org/doi/fullHtml/10.1145/3475799"
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Originality and Plagiarism in Generation Models",
+        "Authors": "L\u221a\u2265pez-Garc\u221a\u2260a et al. (2022)",
+        "Title": {
+            "text": "A Proposal to Compare the Similarity Between Musical Products. One More Step for Automated Plagiarism Detection?",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Natale et al. (2022)",
+        "Title": {
+            "text": "The Lovelace effect: Perceptions of creativity in machines",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Rohrmeier and M. (2022)",
+        "Title": {
+            "text": "On Creativity, Music's AI Completeness, and Four Challenges for Artificial Musical Creativity",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Sato et al. (2022)",
+        "Title": {
+            "text": "The Enactive and Interactive Dimensions of AI: Ingenuity and Imagination Through the Lens of Art and Music",
+            "link": "https://direct.mit.edu/artl/article/28/3/310/112448/The-Enactive-and-Interactive-Dimensions-of-AI"
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Originality and Plagiarism in Generation Models",
+        "Authors": "Somepalli et al. (2022)",
+        "Title": {
+            "text": "Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Hitsuwari et al. (2022)",
+        "Title": {
+            "text": "Does human AI collaboration lead to more creative art? Aesthetic evaluation of human-made and AI-generated haiku poetry",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Caramiaux B,Fdili Alaoui S (2022)",
+        "Title": {
+            "text": "Explorers of Unknown Planets: Practices and Politics of Artificial Intelligence in Visual Arts",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Other",
+        "Subcategory": null,
+        "Authors": "Ricardo Baeza-Yates and Marina Est\u00e9vez-Almenzar  (2022)",
+        "Title": {
+            "text": "The Relevance of Non-Human Errors in Machine Learning",
+            "link": "https://ceur-ws.org/Vol-3169/paper5.pdf"
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Documentation",
+        "Authors": "Hupont I et al. (2022)",
+        "Title": {
+            "text": "Documenting high-risk AI: an european regulatory presepective",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Generative AI Implications",
+        "Subcategory": null,
+        "Authors": "Martin Clancy (2022)",
+        "Title": {
+            "text": "Artifical Intelligence and Music Ecosystem",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Originality and Plagiarism in Generation Models",
+        "Authors": "Yin et al. (2022)",
+        "Title": {
+            "text": "Measuring When a Music Generation Algorithm Copies Too Much: The Originality Report, Cardinality Score, and Symbolic Fingerprinting by Geometric Hashing",
+            "link": ""
+        },
+        "Date": 2022
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": null,
+        "Authors": "",
+        "Title": {
+            "text": "MusicLM",
+            "link": ""
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Generative AI Implications",
+        "Subcategory": null,
+        "Authors": "Bandi A et al. (2023)",
+        "Title": {
+            "text": "The Power of Generative AI: A Review of Requirements, Models, Input\ufffdOutput Formats, Evaluation Metrics, and Challenges",
+            "link": "https://www.mdpi.com/1999-5903/15/8/260"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Generative AI Implications",
+        "Subcategory": null,
+        "Authors": "Julia Barnett (2023)",
+        "Title": {
+            "text": "The Ethical Implications of Generative Audio Models: A Systematic Literature Review",
+            "link": "https://arxiv.org/pdf/2307.05527.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Bian et al. (2023)",
+        "Title": {
+            "text": "MoMusic: A Motion-Driven Human-AI Collaborative Music Composition and Performing System",
+            "link": "https://ojs.aaai.org/index.php/AAAI/article/view/26907"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Nick Bryan-Kinns1,2 et al. (2023)",
+        "Title": {
+            "text": "Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI",
+            "link": "https://arxiv.org/pdf/2311.08336.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "Bryan-Kinns et al.  (2023)",
+        "Title": {
+            "text": "Exploring XAI for the Arts: Explaining Latent Space in Generative Music",
+            "link": "https://arxiv.org/abs/2308.05496"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": null,
+        "Authors": "",
+        "Title": {
+            "text": "MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies",
+            "link": "https://arxiv.org/pdf/2308.01546.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "A. K. Brandt (2023)",
+        "Title": {
+            "text": "Beethoven's Ninth and AI's Tenth: A comparison of human and computational creativity",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2713374523000274?pes=vor"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "K. Cotton and K. Tatar (2023)",
+        "Title": {
+            "text": "Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI",
+            "link": "https://arxiv.org/abs/2311.08120"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "Z. Epstein et al.  (2023)",
+        "Title": {
+            "text": "Art and the science of generative AI: A deeper dive",
+            "link": "https://arxiv.org/abs/2306.04141"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Yi Guo et al.  (2023)",
+        "Title": {
+            "text": "An automatic music generation and evaluation method based on transfer learning",
+            "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283103"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": null,
+        "Authors": "Shulei Ji and Xinyu Yang and Jing Luo (2023)",
+        "Title": {
+            "text": "A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges",
+            "link": "https://dl.acm.org/doi/10.1145/3597493"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Amanda Korzuk (2023)",
+        "Title": {
+            "text": "How AI Affects Our Understanding of Musical Works That Should Be Protected by Copyright",
+            "link": "https://ieeexplore.ieee.org/document/10191524"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": null,
+        "Authors": "",
+        "Title": {
+            "text": "Generative AI models should include detection mechanisms as a condition for public release",
+            "link": "https://link.springer.com/article/10.1007/s10676-023-09728-4"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Documentation",
+        "Authors": "F. Morreale et al.  (2023)",
+        "Title": {
+            "text": "DATA COLLECTION IN MUSIC GENERATION TRAINING SETS:",
+            "link": "https://archives.ismir.net/ismir2023/paper/000003.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Co-Creativity",
+        "Authors": "YaoQiu et al. (2023)",
+        "Title": {
+            "text": "Humming2Music: Being A Composer As Long As You Can Humming",
+            "link": "https://www.ijcai.org/proceedings/2023/0840.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Co-Creativity",
+        "Authors": "M. Oever et al.  (2023)",
+        "Title": {
+            "text": "Co-Creativity between Music Producers and \ufffdSmart\ufffd versus \ufffdNaive\ufffd",
+            "link": "https://kar.kent.ac.uk/101968/2/ICCC-2023_paper_98.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Explainability",
+        "Authors": "ASHLEY NOEL-HIRST and NICK BRYAN-KINNS et al. (2023)",
+        "Title": {
+            "text": "An Autoethnographic Exploration of XAI in Algorithmic Composition",
+            "link": "https://arxiv.org/pdf/2308.06089.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "Z. Xiong et al.  (2023)",
+        "Title": {
+            "text": "A Comprehensive Survey for Evaluation Methodologies of AI-Generated Music",
+            "link": "https://arxiv.org/abs/2308.13736"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Generative AI Implications",
+        "Subcategory": null,
+        "Authors": "",
+        "Title": {
+            "text": "VerifAI: Verified Generative AI",
+            "link": "https://arxiv.org/pdf/2307.02796.pdf"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": "Law Specific",
+        "Authors": "P. Samuelson (2023)",
+        "Title": {
+            "text": "Legal Challenges to Generative AI, Part I",
+            "link": "https://dl.acm.org/doi/10.1145/3597151"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity Evaluation",
+        "Authors": "https://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Zongyu-Yin-Aff1,\ufffdhttps://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Federico-Reuben-Aff2,\ufffdhttps://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Susan-Stepney-Aff1\ufffd&\ufffdhttps://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot#auth-Tom-Collins-Aff2-Aff3 (2023)",
+        "Title": {
+            "text": "Deep learning\ufffds shallow gains: a comparative evaluation of algorithms for automatic music generation",
+            "link": "https://link.springer.com/article/10.1007/s10994-023-06309-w?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot"
+        },
+        "Date": 2023
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "P. Alonso-Jimenez et a.  (2024)",
+        "Title": {
+            "text": "Leveraging Pre-Trained Autoencoders for Interpretable Prototype Learning of Music Audio",
+            "link": "https://arxiv.org/abs/2402.09318"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Originality and Plagiarism in Generation Models",
+        "Authors": "D. Afchar et al.  (2024)",
+        "Title": {
+            "text": "DETECTING MUSIC DEEPFAKES IS EASY BUT ACTUALLY HARD",
+            "link": "https://arxiv.org/pdf/2405.04181"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Originality and Plagiarism in Generation Models",
+        "Authors": "J. Barnett et al.  (2024)",
+        "Title": {
+            "text": "Exploring Musical Roots: Applying Audio Embeddings to Empower Influence",
+            "link": "https://arxiv.org/pdf/2401.14542"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Co-Creativity",
+        "Authors": "A. Correia et al. (2024)",
+        "Title": {
+            "text": "And Justice for Art(ists): Metaphorical Design as a Method for Creating Culturally Diverse Human-AI Music Composition Experiences",
+            "link": "https://ieeexplore.ieee.org/document/10550680"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "C. Ford et al.  (2024)",
+        "Title": {
+            "text": "Reflection Across AI-based Music Composition",
+            "link": "https://ualresearchonline.arts.ac.uk/id/eprint/22060/1/reflection_across_unmarked.pdf"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Co-Creativity",
+        "Authors": "P. Kamath et al.  (2024)",
+        "Title": {
+            "text": "Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers",
+            "link": "https://dl.acm.org/doi/10.1145/3613904.3642040"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Co-Creativity",
+        "Authors": "S. Hirawata and N. Otani (2024)",
+        "Title": {
+            "text": "Interactive Melody Generation System for Enhancing the Creativity of Musicians",
+            "link": "https://arxiv.org/abs/2403.03395"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "Creativity & Computational Creativity",
+        "Authors": "J. Kilb and C. Ellis (2024)",
+        "Title": {
+            "text": "Conserving Human Creativity with Evolutionary Generative Algorithms: A Case Study in Music Generation",
+            "link": "https://arxiv.org/abs/2406.05873"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "K. Lee et al.  (2024)",
+        "Title": {
+            "text": "Talkin\ufffd \ufffdBout AI Generation:",
+            "link": "https://arxiv.org/pdf/2309.08133"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "M. Mantegna (2024)",
+        "Title": {
+            "text": "ARTificial: Why Copyright Is Not the Right Policy Tool to Deal with Generative AI",
+            "link": ""
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "F. Mazzi (2024)",
+        "Title": {
+            "text": "Authorship in artificial intelligence-generated works: Exploring originality in text prompts and artificial intelligence outputs through philosophical foundations of copyright and collage protection",
+            "link": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwip.12310?src=getftr"
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "P. Samuelson (2024)",
+        "Title": {
+            "text": "Thinking About Possible Remedies in the Generative AI Copyright Cases",
+            "link": ""
+        },
+        "Date": 2024
+    },
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": null,
+        "Authors": "C. Sueur et al.  (2024)",
+        "Title": {
+            "text": "Exploration of the creative processes in animals, robots, and AI: who holds the authorship?",
+            "link": "https://www.nature.com/articles/s41599-024-03125-y"
+        },
+        "Date": 2024
     }
 ]

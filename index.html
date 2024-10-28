@@ -10,7 +10,7 @@
         /* Apply the Open Sans font */
         body { 
             font-family: 'Open Sans', sans-serif; 
-            margin-left: 50px; /* Adds margin to the left side of the screen */
+            margin-left: 30px; /* Adds margin to the left side of the screen */
         }
         
         table { 
@@ -42,13 +42,13 @@
     </style>
 </head>
 <body>
-    <h1>Live Literature Review Summary</h1>
+    <h1><b>Live Literature Review Summary</b></h1>
     <table>
         <thead>
             <tr>
                 <th>Category</th>
                 <th>Subcategory</th>
-                <th>Reference</th>
+                <th>Authors</th>
                 <th>Title</th>
                 <th>Date</th>
             </tr>
@@ -59,46 +59,75 @@
     </table>
 
     <script>
-        async function loadPublications() {
-            try {
-                // Fetch the JSON data
-                const response = await fetch('publications.json');
-                const publications = await response.json();
+        document.addEventListener("DOMContentLoaded", function() {
+            const categoryOrder = [
+                "AI Transparency",
+                "Music Generation",
+                "IP & Copyright",
+                "Generative AI Implications",
+                "Other"
+            ];
 
-                const tableContent = document.getElementById('table-content');
+            // Fetch JSON data and render it on the page
+            fetch("publications.json")
+                .then(response => response.json())
+                .then(data => displayPublications(data))
+                .catch(error => console.error("Error fetching data:", error));
 
-                publications.forEach(cat => {
-                    const categoryRow = document.createElement('tr');
-                    categoryRow.classList.add('category-row');
-                    categoryRow.innerHTML = `<td colspan="5">${cat.category}</td>`;
-                    tableContent.appendChild(categoryRow);
+            function displayPublications(data) {
+                const tableContent = document.getElementById("table-content");
 
-                    cat.subcategories.forEach(subcat => {
-                        const subcategoryRow = document.createElement('tr');
-                        subcategoryRow.classList.add('subcategory-row');
-                        subcategoryRow.innerHTML = `<td></td><td colspan="4">${subcat.name}</td>`;
-                        tableContent.appendChild(subcategoryRow);
+                // Sort the data by the required category order
+                let sortedData = data.sort((a, b) => 
+                    categoryOrder.indexOf(a.Category) - categoryOrder.indexOf(b.Category)
+                );
 
-                        subcat.publications.forEach(pub => {
-                            const row = document.createElement('tr');
-                            row.innerHTML = `
-                                <td></td> <!-- Empty cell for category -->
-                                <td></td> <!-- Empty cell for subcategory -->
-                                <td>${pub.reference}</td>
-                                <td><a href="${pub.link}" target="_blank">${pub.title}</a></td>
-                                <td>${pub.date}</td>
-                            `;
-                            tableContent.appendChild(row);
-                        });
-                    });
+                // Group publications by Category and Subcategory
+                let groupedByCategory = sortedData.reduce((result, publication) => {
+                    let category = publication.Category;
+                    if (!result[category]) result[category] = [];
+                    result[category].push(publication);
+                    return result;
+                }, {});
+
+                // Render categories in specified order
+                categoryOrder.forEach(category => {
+                    if (groupedByCategory[category]) {
+                        const categoryRow = document.createElement('tr');
+                        categoryRow.classList.add('category-row');
+                        categoryRow.innerHTML = `<td colspan="5">${category}</td>`;
+                        tableContent.appendChild(categoryRow);
+
+                        // Group by subcategory and render each publication
+                        let publicationsBySubcategory = groupedByCategory[category].reduce((result, pub) => {
+                            let subcategory = pub.Subcategory || "General";
+                            if (!result[subcategory]) result[subcategory] = [];
+                            result[subcategory].push(pub);
+                            return result;
+                        }, {});
+
+                        for (let subcategory in publicationsBySubcategory) {
+                            const subcategoryRow = document.createElement('tr');
+                            subcategoryRow.classList.add('subcategory-row');
+                            subcategoryRow.innerHTML = `<td></td><td colspan="4">${subcategory}</td>`;
+                            tableContent.appendChild(subcategoryRow);
+
+                            publicationsBySubcategory[subcategory].forEach(pub => {
+                                const row = document.createElement("tr");
+                                row.innerHTML = `
+                                    <td></td> <!-- Empty cell for category -->
+                                    <td></td> <!-- Empty cell for subcategory -->
+                                    <td>${pub.Authors}</td>
+                                    <td><a href="${pub.Title.link}" target="_blank">${pub.Title.text}</a></td>
+                                    <td>${pub.Date}</td>
+                                `;
+                                tableContent.appendChild(row);
+                            });
+                        }
+                    }
                 });
-            } catch (error) {
-                console.error('Error loading publications:', error);
             }
-        }
-
-        // Call the function to load publications
-        loadPublications();
+        });
     </script>
 </body>
 </html>
