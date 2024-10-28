@@ -69,7 +69,7 @@
             ];
 
             // Fetch JSON data and render it on the page
-            fetch("publications.json")
+            fetch("publications-2.json")
                 .then(response => response.json())
                 .then(data => displayPublications(data))
                 .catch(error => console.error("Error fetching data:", error));
