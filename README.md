@@ -1,9 +1,9 @@
-# Live List: Transparency in Music-Generative AI
+# Dynamic List: Transparency in Music-Generative AI
 
 This repository is linked to the article [*Transparency in Music-Generative AI: A Systematic Literature Review*](https://www.researchsquare.com/article/rs-3708077/v1) by R. Batlle-Roca, E. Gómez, W. H. Liao, X. Serra and Y. Misufuji. The intention of the article is to examine the literature on AI transparency in the context of music-generative AI, focusing on the
-connections between transparency, artificial intelligence, music generation, the evaluation of creativity and originality and the connections to intellectual property rights. We presented a comprehensive review of 107 identified publications published until June 2024, highlighting an increasing interest in AI transparency and the ethical consequences of generative models.
+connections between transparency, artificial intelligence, music generation, the evaluation of creativity and originality and the connections to intellectual property rights. In the last version of the review (currently under review), we presented a comprehensive review of 107 identified publications published until June 2024, highlighting an increasing interest in AI transparency and the ethical consequences of generative models.
 
-Given the rapid advancements in generative AI within the music domain, the goal of this repository is to provide a continuously updated **live literature review** (from newest to eldest). It includes a categorised list of publications that reflects new research and developments of AI transparency for music generation, helping the community stay informed on the latest progress in this evolving field.
+Given the rapid advancements in generative AI within the music domain, the goal of this repository is to provide a continuously updated **dynamic and live literature review list** (from newest to eldest). It includes a categorised list of publications that reflects new research and developments of AI transparency for music generation, helping the community stay informed on the latest progress in this evolving field.
 
 ## List of Publications
 | Category                | Subcategory                 | Reference              | Title                                   
@@ -19,14 +19,13 @@ Given the rapid advancements in generative AI within the music domain, the goal 
 | **IP and Copyright** | * | K. Lee et al.  (2024) | [Talkin� �Bout AI Generation:](https://arxiv.org/pdf/2309.08133) | 2024 |
 | **IP and Copyright** | * | M. Mantegna (2024) | ARTificial: Why Copyright Is Not the Right Policy Tool to Deal with Generative AI | 2024 |
 | **IP and Copyright** | * | F. Mazzi (2024) | [Authorship in artificial intelligence-generated works: Exploring originality in text prompts and artificial intelligence outputs through philosophical foundations of copyright and collage protection](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwip.12310?src=getftr) | 2024 |
+| **AI Transparency** | Explainability | Bryan-Kinns et al. (2024) | [Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI](https://arxiv.org/pdf/2311.08336.pdf) | 2024 |
 | **IP and Copyright** | * | P. Samuelson (2024) | Thinking About Possible Remedies in the Generative AI Copyright Cases | 2024 |
 | **IP and Copyright** | * | C. Sueur et al.  (2024) | [Exploration of the creative processes in animals, robots, and AI: who holds the authorship?](https://www.nature.com/articles/s41599-024-03125-y) | 2024 |
 | **Music Generation** | * |  | MusicLM | 2023 |
 | **Generative AI Implications** | * | Bandi A et al. (2023) | [The Power of Generative AI: A Review of Requirements, Models, Input�Output Formats, Evaluation Metrics, and Challenges](https://www.mdpi.com/1999-5903/15/8/260) | 2023 |
 | **Generative AI Implications** | * | Julia Barnett (2023) | [The Ethical Implications of Generative Audio Models: A Systematic Literature Review](https://arxiv.org/pdf/2307.05527.pdf) | 2023 |
 | **Music Generation** | Creativity & Computational Creativity | Bian et al. (2023) | [MoMusic: A Motion-Driven Human-AI Collaborative Music Composition and Performing System](https://ojs.aaai.org/index.php/AAAI/article/view/26907) | 2023 |
-| **AI Transparency** | Explainability | Bryan-Kinns et al. (2023a) | [Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI](https://arxiv.org/pdf/2311.08336.pdf) | 2023 |
-| **AI Transparency** | Explainability | Bryan-Kinns et al.  (2023b) | [Exploring XAI for the Arts: Explaining Latent Space in Generative Music](https://arxiv.org/abs/2308.05496) | 2023 |
 | **Music Generation** | * |  | [MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies](https://arxiv.org/pdf/2308.01546.pdf) | 2023 |
 | **Music Generation** | Creativity & Computational Creativity | Brandt (2023) | [Beethoven's Ninth and AI's Tenth: A comparison of human and computational creativity](https://www.sciencedirect.com/science/article/pii/S2713374523000274?pes=vor) | 2023 |
 | **Music Generation** | Creativity & Computational Creativity | K. Cotton and K. Tatar (2023) | [Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI](https://arxiv.org/abs/2311.08120) | 2023 |
@@ -59,6 +58,7 @@ Given the rapid advancements in generative AI within the music domain, the goal 
 | **AI Transparency** | Documentation | Hupont I et al. (2022) | Documenting high-risk AI: an european regulatory presepective | 2022 |
 | **Generative AI Implications** | * | Martin Clancy (2022) | Artifical Intelligence and Music Ecosystem | 2022 |
 | **Music Generation** | Originality and Plagiarism in Generation Models | Yin et al. (2022) | Measuring When a Music Generation Algorithm Copies Too Much: The Originality Report, Cardinality Score, and Symbolic Fingerprinting by Geometric Hashing | 2022 |
+| **AI Transparency** | Explainability | Bryan-Kinns et al.  (2021) | [Exploring XAI for the Arts: Explaining Latent Space in Generative Music](https://arxiv.org/abs/2308.05496) | 2021 |
 | **Generative AI Implications** | * | F. Morreale et al.  (2021) | [Where Does the Buck Stop? Ethical and Political Issues](https://researchspace.auckland.ac.nz/bitstream/handle/2292/55479/86-2717-1-PB.pdf?sequence=2) | 2021 |
 | **Generative AI Implications** | * | M. Clancy (2021) | [Reflections on the Financial and Ethical Implications of Music Generated by Artificial Intelligence](https://www.tara.tcd.ie/handle/2262/94880) | 2021 |
 | **Music Generation** | Creativity Evaluation | Cádiz et al. (2021) | [Creativity in Generative Musical Networks: Evidence From Two Case Studies](https://www.frontiersin.org/articles/10.3389/frobt.2021.680586/full) | 2021 |
