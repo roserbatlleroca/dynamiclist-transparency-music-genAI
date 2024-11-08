@@ -116,14 +116,14 @@
         "Authors": "Mishra et al. (2017)",
         "Title": {
             "text": "Local Interpretable Model-Agnostic Explations for",
-            "link": ""
+            "link": "https://www.eecs.qmul.ac.uk/~simond/pub/2017/MishraSturmDixon-ISMIR2017.pdf"
         },
         "Date": 2017
     },
     {
         "Category": "IP and Copyright",
         "Subcategory": "Law Specific",
-        "Authors": "",
+        "Authors": "US Copyright Office",
         "Title": {
             "text": "Compendium of US copyright offices practices",
             "link": ""
@@ -146,7 +146,7 @@
         "Authors": "Adadi et al. (2018)",
         "Title": {
             "text": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-            "link": ""
+            "link": "https://doi.org/10.1109/ACCESS.2018.2870052"
         },
         "Date": 2018
     },
@@ -156,7 +156,7 @@
         "Authors": "Birtchnell et al. (2018)",
         "Title": {
             "text": "Automating the black art: Creative places for artificial intelligence in audio mastering",
-            "link": ""
+            "link": "https://doi.org/10.1016/J.GEOFORUM.2018.08.005"
         },
         "Date": 2018
     },
@@ -166,7 +166,7 @@
         "Authors": "L. Casini (2018)",
         "Title": {
             "text": "Some Reflections on the Potential and Limitations of Deep Learning for Automated Music Generation",
-            "link": ""
+            "link": "https://doi.org/10.1109/PIMRC.2018.8581038"
         },
         "Date": 2018
     },
@@ -176,7 +176,7 @@
         "Authors": "Holland et al. (2018)",
         "Title": {
             "text": "The Dataset Nutrition Label: A Framework To Drive Higher Data Quality Standards",
-            "link": ""
+            "link": "https://arxiv.org/abs/1805.03677"
         },
         "Date": 2018
     },
@@ -186,17 +186,7 @@
         "Authors": "Lamb et al. (2018)",
         "Title": {
             "text": "Evaluating computational creativity: An interdisciplinary tutorial",
-            "link": ""
-        },
-        "Date": 2018
-    },
-    {
-        "Category": "Music Generation",
-        "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "",
-        "Title": {
-            "text": "Is Computational Creativity Domain General?",
-            "link": ""
+            "link": "https://doi.org/10.1145/3167476"
         },
         "Date": 2018
     },
@@ -316,7 +306,7 @@
         "Authors": "Barredo Arrieta et al. (2020)",
         "Title": {
             "text": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
-            "link": ""
+            "link": "https://doi.org/10.1016/J.INFFUS.2019.12.012"
         },
         "Date": 2020
     },
