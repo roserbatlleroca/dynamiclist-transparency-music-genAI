@@ -26,7 +26,7 @@
         "Authors": "Boden (2004)",
         "Title": {
             "text": "The creative mind: myths and mechanisms",
-            "link": ""
+            "link": "https://www.routledge.com/The-Creative-Mind-Myths-and-Mechanisms/Boden/p/book/9780415314534?srsltid=AfmBOor6F8u3ZX_rl9Jr1RNA_vgbcLz5tISI50Q8gkn58EJmKx1YnXlK"
         },
         "Date": 2004
     },
@@ -86,7 +86,7 @@
         "Authors": "Pasquier et al. (2016)",
         "Title": {
             "text": "An introduction to musical metacreation",
-            "link": ""
+            "link": "https://doi.org/10.1145/2930672"
         },
         "Date": 2016
     },
@@ -96,7 +96,7 @@
         "Authors": "Ribeiro et al. (2016)",
         "Title": {
             "text": "\"Why should i trust you?\" Explaining the predictions of any classifier",
-            "link": ""
+            "link": "https://doi.org/10.1145/2939672.2939778"
         },
         "Date": 2016
     },
@@ -106,7 +106,7 @@
         "Authors": "Colombo et al. (2017)",
         "Title": {
             "text": "Deep artificial composer: A creative neural network model for automated melody generation",
-            "link": ""
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-55750-2_6"
         },
         "Date": 2017
     },
@@ -165,7 +165,7 @@
         "Subcategory": "Creativity & Computational Creativity",
         "Authors": "L. Casini (2018)",
         "Title": {
-            "text": "Nan",
+            "text": "Some Reflections on the Potential and Limitations of Deep Learning for Automated Music Generation",
             "link": ""
         },
         "Date": 2018
@@ -216,7 +216,7 @@
         "Authors": "Clinciu et al. (2019)",
         "Title": {
             "text": "A survey of explainable AI terminology",
-            "link": ""
+            "link": "https://doi.org/10.18653/V1/W19-8403"
         },
         "Date": 2019
     },
@@ -236,7 +236,7 @@
         "Authors": "Ehsan et al. (2019)",
         "Title": {
             "text": "Automated rationale generation: A technique for explainable AI and its effects on human perceptions",
-            "link": ""
+            "link": "https://doi.org/10.1145/3301275.3302316"
         },
         "Date": 2019
     },
@@ -246,7 +246,7 @@
         "Authors": "Miller (2019)",
         "Title": {
             "text": "Explanation in artificial intelligence: Insights from the social sciences",
-            "link": ""
+            "link": "https://doi.org/10.1016/J.ARTINT.2018.07.007"
         },
         "Date": 2019
     },
@@ -256,7 +256,7 @@
         "Authors": "Mitchell et al. (2019)",
         "Title": {
             "text": "Model Cards for Model Reporting",
-            "link": ""
+            "link": "https://doi.org/10.1145/3287560.3287596"
         },
         "Date": 2019
     },
@@ -266,17 +266,17 @@
         "Authors": "Rudin (2019)",
         "Title": {
             "text": "Stop Explaining Black Box Models for High Stakes Decisions and Use Interpretable Models Instead",
-            "link": ""
+            "link": "https://www.nature.com/articles/s42256-019-0048-x"
         },
         "Date": 2019
     },
     {
         "Category": "Music Generation",
         "Subcategory": "*",
-        "Authors": "Sim\u00f5es JM,Machado P,Rodrigues AC (2019)",
+        "Authors": "Simoes et al. (2019)",
         "Title": {
             "text": "Deep Learning for Expressive Music Generation",
-            "link": ""
+            "link": "https://doi.org/10.1145/3359852.3359898"
         },
         "Date": 2019
     },
@@ -286,7 +286,7 @@
         "Authors": "Bob Strum et al. (2019)",
         "Title": {
             "text": "Artificial Intelligence and Music: Open Questions of Copyright Law and Engineering Praxis",
-            "link": ""
+            "link": "https://doi.org/10.3390/ARTS8030115"
         },
         "Date": 2019
     },
@@ -296,7 +296,7 @@
         "Authors": "Wang et al. (2019)",
         "Title": {
             "text": "Designing theory-driven user-centric explainable AI",
-            "link": ""
+            "link": "https://doi.org/10.1145/3290605.3300831"
         },
         "Date": 2019
     },
@@ -306,7 +306,7 @@
         "Authors": "Arriagada and L. (2020)",
         "Title": {
             "text": "CG-Art: demystifying the anthropocentric bias of artistic creativity",
-            "link": ""
+            "link": "https://doi.org/10.1080/09540091.2020.1741514"
         },
         "Date": 2020
     },
@@ -446,7 +446,7 @@
         "Authors": "Chung (2021)",
         "Title": {
             "text": "Human in the Loop for Machine Creativity",
-            "link": ""
+            "link": "https://arxiv.org/abs/2110.03569"
         },
         "Date": 2021
     },
@@ -456,17 +456,17 @@
         "Authors": "Clinciu et al. (2021)",
         "Title": {
             "text": "I don't understand! Evaluation methods for natural language explanations",
-            "link": ""
+            "link": "https://ceur-ws.org/Vol-2894/short3.pdf"
         },
         "Date": 2021
     },
     {
         "Category": "AI Transparency",
         "Subcategory": "Documentation",
-        "Authors": "TIMNIT GEBRU et al. (2021)",
+        "Authors": "Gebru et al. (2021)",
         "Title": {
             "text": "Datasheets for Datasets",
-            "link": ""
+            "link": "https://doi.org/10.1145/3458723"
         },
         "Date": 2021
     },
@@ -485,8 +485,8 @@
         "Subcategory": "Explainability",
         "Authors": "Henin (2021)",
         "Title": {
-            "text": "Nan",
-            "link": ""
+            "text": "A generic framework for black-box explanations",
+            "link": "https://doi.org/10.1049/ET.2021.0808"
         },
         "Date": 2021
     },
@@ -495,8 +495,8 @@
         "Subcategory": "Interpretability",
         "Authors": "Linardatos et al. (2021)",
         "Title": {
-            "text": "Explainable ai: A review of machine learning interpretability methods",
-            "link": ""
+            "text": "Explainable AI: A review of machine learning interpretability methods",
+            "link": "https://doi.org/10.3390/E23010018"
         },
         "Date": 2021
     },
@@ -516,7 +516,7 @@
         "Authors": "Pintelas et al. (2021)",
         "Title": {
             "text": "A novel explainable image classification framework: case study on skin cancer and plant disease prediction",
-            "link": ""
+            "link": "https://doi.org/10.1007/S00521-021-06141-0/TABLES/6"
         },
         "Date": 2021
     },
@@ -526,17 +526,17 @@
         "Authors": "Samek et al. (2021)",
         "Title": {
             "text": "Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications",
-            "link": ""
+            "link": "https://doi.org/10.1109/JPROC.2021.3060483"
         },
         "Date": 2021
     },
     {
         "Category": "AI Transparency",
         "Subcategory": "Interpretability",
-        "Authors": "Schr\u00f6der et al. (2021)",
+        "Authors": "SSchröder et al. (2021)",
         "Title": {
             "text": "Unboxing the algorithm: Designing an understandable algorithmic experience in music recommender systems",
-            "link": ""
+            "link": "https://ceur-ws.org/Vol-2955/paper12.pdf"
         },
         "Date": 2021
     },
@@ -555,8 +555,8 @@
         "Subcategory": "Interpretability",
         "Authors": "Zinemanas and P. (2021)",
         "Title": {
-            "text": "Nan",
-            "link": ""
+            "text": "An Interpretable Deep Learning Model for Automatic Sound Classification",
+            "link": "https://doi.org/10.3390/electronics10070850"
         },
         "Date": 2021
     },
@@ -566,7 +566,7 @@
         "Authors": "Afchar et al. (2022)",
         "Title": {
             "text": "Explainability in music recommender systems",
-            "link": ""
+            "link": "https://doi.org/10.1002/aaai.12056"
         },
         "Date": 2022
     },
@@ -575,18 +575,18 @@
         "Subcategory": "Explainability",
         "Authors": "Arias-Duart (2022)",
         "Title": {
-            "text": "Nan",
-            "link": ""
+            "text": "Focus! Rating XAI Methods and Finding Biases",
+            "link": "https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882821"
         },
         "Date": 2022
     },
     {
         "Category": "AI Transparency",
         "Subcategory": "Interpretability",
-        "Authors": "M. B\u00f6hle (2022)",
+        "Authors": "M. Böhle (2022)",
         "Title": {
-            "text": "Nan",
-            "link": ""
+            "text": "B-cos networks: Alignment is all we need for interpretability.",
+            "link": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bohle_B-Cos_Networks_Alignment_Is_All_We_Need_for_Interpretability_CVPR_2022_paper.pdf"
         },
         "Date": 2022
     },
@@ -596,7 +596,7 @@
         "Authors": "Molnar (2022)",
         "Title": {
             "text": "Interpretable Machine Learning",
-            "link": ""
+            "link": "https://christophm.github.io/interpretable-ml-book/"
         },
         "Date": 2022
     },
@@ -613,22 +613,22 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Originality and Plagiarism in Generation Models",
-        "Authors": "L\u221a\u2265pez-Garc\u221a\u2260a et al. (2022)",
+        "Authors": "López-García et al. (2022)",
         "Title": {
             "text": "A Proposal to Compare the Similarity Between Musical Products. One More Step for Automated Plagiarism Detection?",
-            "link": ""
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-07015-0_16"
         },
         "Date": 2022
     },
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "Natale et al. (2022)",
+        "Authors": "Natale and Henrickson (2024)",
         "Title": {
             "text": "The Lovelace effect: Perceptions of creativity in machines",
-            "link": ""
+            "link": "https://journals.sagepub.com/doi/abs/10.1177/14614448221077278?journalCode=nmsa"
         },
-        "Date": 2022
+        "Date": 2024 
     },
     {
         "Category": "Music Generation",
@@ -636,7 +636,7 @@
         "Authors": "Rohrmeier and M. (2022)",
         "Title": {
             "text": "On Creativity, Music's AI Completeness, and Four Challenges for Artificial Musical Creativity",
-            "link": ""
+            "link": "https://doi.org/10.5334/TISMIR.104"
         },
         "Date": 2022
     },
@@ -656,7 +656,7 @@
         "Authors": "Somepalli et al. (2022)",
         "Title": {
             "text": "Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models",
-            "link": ""
+            "link": "https://arxiv.org/abs/2212.03860"
         },
         "Date": 2022
     },
@@ -666,7 +666,7 @@
         "Authors": "Hitsuwari et al. (2022)",
         "Title": {
             "text": "Does human AI collaboration lead to more creative art? Aesthetic evaluation of human-made and AI-generated haiku poetry",
-            "link": ""
+            "link": "https://doi.org/10.1016/J.CHB.2022.107502"
         },
         "Date": 2022
     },
@@ -676,7 +676,7 @@
         "Authors": "Caramiaux and Alaoui (2022)",
         "Title": {
             "text": "Explorers of Unknown Planets: Practices and Politics of Artificial Intelligence in Visual Arts",
-            "link": ""
+            "link": "https://doi.org/10.1145/3555578"
         },
         "Date": 2022
     },
@@ -696,7 +696,7 @@
         "Authors": "Hupont I et al. (2022)",
         "Title": {
             "text": "Documenting high-risk AI: an european regulatory presepective",
-            "link": ""
+            "link": "https://ieeexplore.ieee.org/document/10109295"
         },
         "Date": 2022
     },
@@ -706,7 +706,7 @@
         "Authors": "Martin Clancy (2022)",
         "Title": {
             "text": "Artifical Intelligence and Music Ecosystem",
-            "link": ""
+            "link": "https://www.routledge.com/Artificial-Intelligence-and-Music-Ecosystem/Clancy/p/book/9780367405779?srsltid=AfmBOopErxl3v6cpCOy33KUe8wkV3W9Dtr7sIT8hARUlRM3jsWlTeace"
         },
         "Date": 2022
     },
@@ -716,17 +716,17 @@
         "Authors": "Yin et al. (2022)",
         "Title": {
             "text": "Measuring When a Music Generation Algorithm Copies Too Much: The Originality Report, Cardinality Score, and Symbolic Fingerprinting by Geometric Hashing",
-            "link": ""
+            "link": "https://doi.org/10.1007/s42979-022-01220-y"
         },
         "Date": 2022
     },
     {
         "Category": "Music Generation",
         "Subcategory": "*",
-        "Authors": "",
+        "Authors": "Agostinelli et al. (2023)",
         "Title": {
-            "text": "MusicLM",
-            "link": ""
+            "text": "MusicLM: Generating Music From Text.",
+            "link": "https://doi.org/10.48550/arXiv.2301.11325"
         },
         "Date": 2023
     },
@@ -1036,7 +1036,7 @@
         "Authors": "M. Mantegna (2024)",
         "Title": {
             "text": "ARTificial: Why Copyright Is Not the Right Policy Tool to Deal with Generative AI",
-            "link": ""
+            "link": "https://www.yalelawjournal.org/forum/artificial-why-copyright-is-not-the-right-policy-tool-to-deal-with-generative-ai"
         },
         "Date": 2024
     },
@@ -1056,7 +1056,7 @@
         "Authors": "P. Samuelson (2024)",
         "Title": {
             "text": "Thinking About Possible Remedies in the Generative AI Copyright Cases",
-            "link": ""
+            "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4770671"
         },
         "Date": 2024
     },
