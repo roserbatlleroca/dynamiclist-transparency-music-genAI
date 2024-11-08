@@ -763,22 +763,22 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "Bryan-Kinns et al. (2023a)",
+        "Authors": "Bryan-Kinns et al. (2024)",
         "Title": {
             "text": "Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI",
-            "link": "https://arxiv.org/pdf/2311.08336.pdf"
+            "link": "https://link.springer.com/article/10.1007/s11633-023-1457-1"
         },
-        "Date": 2023
+        "Date": 2024
     },
     {
         "Category": "AI Transparency",
         "Subcategory": "Explainability",
-        "Authors": "Bryan-Kinns et al.  (2023b)",
+        "Authors": "Bryan-Kinns et al.  (2021)",
         "Title": {
             "text": "Exploring XAI for the Arts: Explaining Latent Space in Generative Music",
             "link": "https://arxiv.org/abs/2308.05496"
         },
-        "Date": 2023
+        "Date": 2021
     },
     {
         "Category": "Music Generation",
