@@ -5,7 +5,7 @@ This repository is linked to the article [*Transparency in Music-Generative AI: 
 Given the rapid advancements in generative AI within the music domain, the goal of this repository is to provide a continuously updated **dynamic and live literature review list** (from newest to eldest). It includes a categorised list of publications that reflects new research and developments of AI transparency for music generation, helping the community stay informed on the latest progress in this evolving field.
 
 
-# 📚 Citation
+## 📚 Citation
 ```
 @article{batlleroca2023transparency,
   title={Transparency in Music-Generative AI: A Systematic Literature Review},
