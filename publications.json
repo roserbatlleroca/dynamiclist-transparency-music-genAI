@@ -1,5 +1,44 @@
 [
-
+    {
+        "Category": "IP and Copyright",
+        "Subcategory": "*",
+        "Authors": "J. Hayes (2021)",
+        "Title": {
+            "text": "Setting AI to rights: Intellectual property laws are lagging behind the latest advances in ai tech - but should intelligent systems 'own' the inventions they come up with?",
+            "link": ""
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "*",
+        "Authors": "Ragot et al. (2020)",
+        "Title": {
+            "text": "AI-generated vs. human artworks. a perception bias towards artificial intelligence?",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "Generative AI Implications",
+        "Subcategory": "*",
+        "Authors": "F. Morreale et al.  (2021)",
+        "Title": {
+            "text": "Where Does the Buck Stop? Ethical and Political Issues",
+            "link": "https://researchspace.auckland.ac.nz/bitstream/handle/2292/55479/86-2717-1-PB.pdf?sequence=2"
+        },
+        "Date": 2021
+    },
+    {
+        "Category": "Music Generation",
+        "Subcategory": "*",
+        "Authors": "Simoes et al. (2019)",
+        "Title": {
+            "text": "Deep Learning for Expressive Music Generation",
+            "link": "https://doi.org/10.1145/3359852.3359898"
+        },
+        "Date": 2019
+    },
     {
         "Category": "IP and Copyright",
         "Subcategory": "Law Specific",
@@ -9,6 +48,16 @@
             "link": "https://assets.publishing.service.gov.uk/media/60180c2b8fa8f53fc62c5897/Copyright-designs-and-patents-act-1988.pdf"
         },
         "Date": 1988
+    },
+    {
+        "Category": "AI Transparency",
+        "Subcategory": "*",
+        "Authors": "Abdollahi et al. (2018)",
+        "Title": {
+            "text": "Transparency in Fair Machine Learning: the Case of Explainable Recommender Systems",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-90403-0_2"
+        },
+        "Date": 2018
     },
     {
         "Category": "Music Generation",
@@ -132,16 +181,6 @@
     },
     {
         "Category": "AI Transparency",
-        "Subcategory": "*",
-        "Authors": "Abdollahi et al. (2018)",
-        "Title": {
-            "text": "Transparency in Fair Machine Learning: the Case of Explainable Recommender Systems",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-319-90403-0_2"
-        },
-        "Date": 2018
-    },
-    {
-        "Category": "AI Transparency",
         "Subcategory": "Explainability",
         "Authors": "Adadi et al. (2018)",
         "Title": {
@@ -261,16 +300,6 @@
         "Date": 2019
     },
     {
-        "Category": "Music Generation",
-        "Subcategory": "*",
-        "Authors": "Simoes et al. (2019)",
-        "Title": {
-            "text": "Deep Learning for Expressive Music Generation",
-            "link": "https://doi.org/10.1145/3359852.3359898"
-        },
-        "Date": 2019
-    },
-    {
         "Category": "IP and Copyright",
         "Subcategory": "*",
         "Authors": "Bob Strum et al. (2019)",
@@ -372,26 +401,6 @@
     },
     {
         "Category": "Music Generation",
-        "Subcategory": "*",
-        "Authors": "Ragot et al. (2020)",
-        "Title": {
-            "text": "AI-generated vs. human artworks. a perception bias towards artificial intelligence?",
-            "link": ""
-        },
-        "Date": 2020
-    },
-    {
-        "Category": "AI Transparency",
-        "Subcategory": "Interpretability",
-        "Authors": "Sokol and Flach (2020)",
-        "Title": {
-            "text": "Interpretable Representations in Explainable AI: From Theory to Practice",
-            "link": ""
-        },
-        "Date": 2020
-    },
-    {
-        "Category": "Music Generation",
         "Subcategory": "Originality and Plagiarism in Generation Models",
         "Authors": "Yang et al. (2020)",
         "Title": {
@@ -399,16 +408,6 @@
             "link": ""
         },
         "Date": 2020
-    },
-    {
-        "Category": "Generative AI Implications",
-        "Subcategory": "*",
-        "Authors": "F. Morreale et al.  (2021)",
-        "Title": {
-            "text": "Where Does the Buck Stop? Ethical and Political Issues",
-            "link": "https://researchspace.auckland.ac.nz/bitstream/handle/2292/55479/86-2717-1-PB.pdf?sequence=2"
-        },
-        "Date": 2021
     },
     {
         "Category": "Generative AI Implications",
@@ -452,21 +451,21 @@
     },
     {
         "Category": "AI Transparency",
+        "Subcategory": "Interpretability",
+        "Authors": "Sokol and Flach (2020)",
+        "Title": {
+            "text": "Interpretable Representations in Explainable AI: From Theory to Practice",
+            "link": ""
+        },
+        "Date": 2020
+    },
+    {
+        "Category": "AI Transparency",
         "Subcategory": "Documentation",
         "Authors": "Gebru et al. (2021)",
         "Title": {
             "text": "Datasheets for Datasets",
             "link": "https://doi.org/10.1145/3458723"
-        },
-        "Date": 2021
-    },
-    {
-        "Category": "IP and Copyright",
-        "Subcategory": "*",
-        "Authors": "J. Hayes (2021)",
-        "Title": {
-            "text": "Setting AI to rights: Intellectual property laws are lagging behind the latest advances in ai tech - but should intelligent systems 'own' the inventions they come up with?",
-            "link": ""
         },
         "Date": 2021
     },
