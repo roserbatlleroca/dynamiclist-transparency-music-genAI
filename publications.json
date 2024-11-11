@@ -5,7 +5,7 @@
         "Authors": "J. Hayes (2021)",
         "Title": {
             "text": "Setting AI to rights: Intellectual property laws are lagging behind the latest advances in ai tech - but should intelligent systems 'own' the inventions they come up with?",
-            "link": ""
+            "link": "Setting AI to rights: Intellectual property laws are lagging behind the latest advances in ai tech - but should intelligent systems 'own' the inventions they come up with?","
         },
         "Date": 2021
     },
@@ -15,7 +15,7 @@
         "Authors": "Ragot et al. (2020)",
         "Title": {
             "text": "AI-generated vs. human artworks. a perception bias towards artificial intelligence?",
-            "link": ""
+            "link": "https://dl.acm.org/doi/10.1145/3334480.3382892"
         },
         "Date": 2020
     },
@@ -175,7 +175,7 @@
         "Authors": "US Copyright Office",
         "Title": {
             "text": "Compendium of US copyright offices practices",
-            "link": ""
+            "link": "https://www.copyright.gov/comp3/"
         },
         "Date": 2017
     },
@@ -342,20 +342,20 @@
     {
         "Category": "IP and Copyright",
         "Subcategory": "*",
-        "Authors": "",
+        "Authors": "Bonadino and McDonagh (2020)",
         "Title": {
             "text": "AI as Producer and Consumer of Copyright Works: Evaluating the Consequences of Algorithmic Creativity ",
-            "link": ""
+            "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3617197"
         },
         "Date": 2020
     },
     {
         "Category": "Music Generation",
         "Subcategory": "*",
-        "Authors": "",
+        "Authors": "Briot and Pachet (2020)",
         "Title": {
             "text": "Deep learning for music generation: challenges and directions",
-            "link": ""
+            "link": "https://link.springer.com/article/10.1007/s00521-018-3813-6"
         },
         "Date": 2020
     },
@@ -365,17 +365,17 @@
         "Authors": "Carnovalini et al. (2020)",
         "Title": {
             "text": "Computational Creativity and Music Generation Systems: An Introduction to the State of the Art",
-            "link": ""
+            "link": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00014/full"
         },
         "Date": 2020
     },
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity & Computational Creativity",
-        "Authors": "Esling P,Devis N (2020)",
-        "Title": {
+        "Authors": "Esling and Davis (2020)",
+        "Title": { 
             "text": "Creativity in the era of artificial intelligence",
-            "link": ""
+            "link": "https://arxiv.org/abs/2008.05959"
         },
         "Date": 2020
     },
@@ -405,7 +405,7 @@
         "Authors": "Yang et al. (2020)",
         "Title": {
             "text": "On the evaluation of generative models in music",
-            "link": ""
+            "link": "https://musicinformatics.gatech.edu/wp-content_nondefault/uploads/2018/11/postprint.pdf"
         },
         "Date": 2020
     },
@@ -422,7 +422,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity Evaluation",
-        "Authors": "C\u00e1diz et al. (2021)",
+        "Authors": "Cádiz et al. (2021)",
         "Title": {
             "text": "Creativity in Generative Musical Networks: Evidence From Two Case Studies",
             "link": "https://www.frontiersin.org/articles/10.3389/frobt.2021.680586/full"
@@ -455,7 +455,7 @@
         "Authors": "Sokol and Flach (2020)",
         "Title": {
             "text": "Interpretable Representations in Explainable AI: From Theory to Practice",
-            "link": ""
+            "link": "https://link.springer.com/article/10.1007/s10618-024-01010-5"
         },
         "Date": 2020
     },
@@ -522,7 +522,7 @@
     {
         "Category": "AI Transparency",
         "Subcategory": "Interpretability",
-        "Authors": "SSchröder et al. (2021)",
+        "Authors": "Schröder et al. (2021)",
         "Title": {
             "text": "Unboxing the algorithm: Designing an understandable algorithmic experience in music recommender systems",
             "link": "https://ceur-ws.org/Vol-2955/paper12.pdf"
@@ -772,7 +772,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "*",
-        "Authors": "",
+        "Authors": "Chen et al. (2023)",
         "Title": {
             "text": "MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies",
             "link": "https://arxiv.org/pdf/2308.01546.pdf"
@@ -812,7 +812,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity Evaluation",
-        "Authors": "Yi Guo et al.  (2023)",
+        "Authors": "Yi Guo et al. (2023)",
         "Title": {
             "text": "An automatic music generation and evaluation method based on transfer learning",
             "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283103"
@@ -822,7 +822,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "*",
-        "Authors": "Shulei Ji and Xinyu Yang and Jing Luo (2023)",
+        "Authors": "Ji et al. (2023)",
         "Title": {
             "text": "A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges",
             "link": "https://dl.acm.org/doi/10.1145/3597493"
@@ -832,7 +832,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Creativity Evaluation",
-        "Authors": "Amanda Korzuk (2023)",
+        "Authors": "Korzuk (2023)",
         "Title": {
             "text": "How AI Affects Our Understanding of Musical Works That Should Be Protected by Copyright",
             "link": "https://ieeexplore.ieee.org/document/10191524"
@@ -842,7 +842,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "*",
-        "Authors": "",
+        "Authors": "Knott (2023)",
         "Title": {
             "text": "Generative AI models should include detection mechanisms as a condition for public release",
             "link": "https://link.springer.com/article/10.1007/s10676-023-09728-4"
@@ -862,7 +862,7 @@
     {
         "Category": "Music Generation",
         "Subcategory": "Co-Creativity",
-        "Authors": "YaoQiu et al. (2023)",
+        "Authors": "Qiu et al. (2023)",
         "Title": {
             "text": "Humming2Music: Being A Composer As Long As You Can Humming",
             "link": "https://www.ijcai.org/proceedings/2023/0840.pdf"
@@ -902,7 +902,7 @@
     {
         "Category": "Generative AI Implications",
         "Subcategory": "*",
-        "Authors": "",
+        "Authors": "Tang et al. (2023)",
         "Title": {
             "text": "VerifAI: Verified Generative AI",
             "link": "https://arxiv.org/pdf/2307.02796.pdf"
@@ -912,7 +912,7 @@
     {
         "Category": "IP and Copyright",
         "Subcategory": "Law Specific",
-        "Authors": "P. Samuelson (2023)",
+        "Authors": "Samuelson (2023)",
         "Title": {
             "text": "Legal Challenges to Generative AI, Part I",
             "link": "https://dl.acm.org/doi/10.1145/3597151"
